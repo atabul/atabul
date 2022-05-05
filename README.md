@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**atabul/atabul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 Finding Me: abltech76.blogspot.com 🅱️
 
-Here are some ideas to get you started:
+✓ Some of my works:
+💻 I have been working for game development on unity 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👇𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ...
+
+✔️ Callme:He/His or TeamWorker 😀
+✔️ I'm currently working on game development 🔥
+✔️ I’m currently learning Dot Net Core 🥰
+✔️ I’m looking to collaborate with Python in ML and AI 😘
+✔️ I’m looking for help with unity for 2D and 3D designing 😦
+✔️ Ask me about C, C++, C#, .Net, Python Basics I will try to answer for your queries 😎
+✔️ How to reach me: Social Media like Facebook, Twitter, Google and so on 
+✔️ Fun fact: Without coding i can't alive 🤣
+✔️ Real Fact: I always try to familiar with new technology ⚙️
