@@ -7,7 +7,7 @@
 
 👇𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ...
 
-✔️ Callme:He/His or TeamWorker 😀
+✔️ Callme: He/His or TeamWorker 😀
 
 ✔️ I'm currently working on game development 🔥
 
