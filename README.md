@@ -4,9 +4,9 @@
 
 ✓ Some of my works:
 💻 I have been working for game development on unity 🔥
-<img align="left" alt ="coding" width="400" src="https://64.media.tumblr.com/tumblr_nf042enRJ71qfjvex_r1_og.gif">
+<img align="right" alt ="coding" width="400" src="https://64.media.tumblr.com/tumblr_nf042enRJ71qfjvex_r1_og.gif">
 
-<img align="right" alt ="coding" width="35" src="https://wallpapercave.com/uwp/uwp186723.gif">𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ...
+<img align="left" alt ="coding" width="35" src="https://wallpapercave.com/uwp/uwp186723.gif">𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 ...
 
 ✔️ Callme: 𝐻𝑒/𝐻𝒾𝓈 or TeamWorker 😀                                                                                                                                       
 ✔️ I'm currently working on game development 🔥                                                                                                                         
