@@ -1,6 +1,5 @@
 ### Hi👋 I'm Atabul 
-👉 Finding Me: https://abltech76.blogspot.com 🅱️
-
+👉 Finding Me: https://abltech76.blogspot.com 🅱️                                                                                                                         
 ✓ Some of my works:💻 I have been working for game development on unity 🔥                                                                                                                                                                       
 <img align="right" alt ="coding" width="350" src="https://64.media.tumblr.com/tumblr_nf042enRJ71qfjvex_r1_og.gif">
 
